@@ -10,3 +10,5 @@ import the necessary files:
 2.) matplotlib
 3.) scipy
 4.) download the jupyter extension on vscode
+
+NOTE: make sure you put all the txt files the same directory as the final python file
